@@ -17,4 +17,4 @@ Superstore Sales Dataset — 9,800 records
 - Peak sales occur in Q4 (Oct-Dec)
 
 ## Dashboard
-[View on Tableau Public](your-tableau-link-here)
+https://public.tableau.com/app/profile/lavina.balramani/viz/Book1_17821140046960/Dashboard1
